@@ -37,6 +37,9 @@ yarn-error.log
 testem.log
 /typings
 
+# SSL certificates
+/ssl
+
 # System files
 .DS_Store
 Thumbs.db
